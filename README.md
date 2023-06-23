@@ -1,4 +1,4 @@
-# SuperMarket-Sim-MC-Simulation
+# SuperMarket-MC-Markov-Simulation
 
 In this project,I write a program that simulates customer behaviour in a supermarket.
 The project involves the following tasks:
